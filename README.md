@@ -14,7 +14,7 @@ Hey My Name is Gonzalo Axel Valdez, I am currently studying the seventh cycle at
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <table>
-	<tbody>
+	
 	  <tr valign="top">
 		<td width="14.2%" align="center">
 		  <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
@@ -83,10 +83,7 @@ Hey My Name is Gonzalo Axel Valdez, I am currently studying the seventh cycle at
 		  <span><strong>VIM</strong></span><br><br><br>
 		  <img height="64px" src="https://cdn.svgporn.com/logos/vim.svg">
 		</td>
-	  
-  
 	</tr>   
-	</tbody>
   </table>
   <hr>
   
