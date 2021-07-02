@@ -45,7 +45,7 @@ Hey My Name is Gonzalo Axel Valdez, I am currently studying the seventh cycle at
         <span><strong>MySql</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
       </td>
-	       <td width="14.2%" align="center">
+      <td width="14.2%" align="center">
         <span><strong>PostgreSQL</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
@@ -84,19 +84,19 @@ Hey My Name is Gonzalo Axel Valdez, I am currently studying the seventh cycle at
         <img height="64px" src="https://cdn.svgporn.com/logos/vim.svg">
       </td>
 	
- 
+
   </tr>
-	  <tr>
-	      <td width="14.2%" align="center">
-        <span><strong>Express.js</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
-      </td>
+  <tr>	
+	<td width="14.2%" align="center">
+        	<span><strong>Express.js</strong></span><br><br><br>
+       		 <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
+        </td>
  
      <td width="14.2%" align="center">
         <span><strong>Babel</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/babel.svg">
       </td>
-	  </tr>
+  </tr>
  
   </tbody>
 </table>
