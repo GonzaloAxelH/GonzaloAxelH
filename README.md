@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hey My Name is Parth Patel, I am currently studying the seventh cycle at the national university of moquegua.
+Hey My Name is Gonzalo Axel Valdez, I am currently studying the seventh cycle at the national university of moquegua.
 
 
 <hr/>
