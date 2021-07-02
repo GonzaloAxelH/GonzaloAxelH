@@ -85,19 +85,7 @@ Hey My Name is Gonzalo Axel Valdez, I am currently studying the seventh cycle at
 		</td>
 	  
   
-	</tr>
-	<tr>	
-	  <td width="14.2%" align="center">
-			  <span><strong>Express.js</strong></span><br><br><br>
-				  <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
-		  </td>
-   
-	   <td width="14.2%" align="center">
-		  <span><strong>Babel</strong></span><br><br><br>
-		  <img height="64px" src="https://cdn.svgporn.com/logos/babel.svg">
-		</td>
-	</tr>
-   
+	</tr>   
 	</tbody>
   </table>
   <hr>
