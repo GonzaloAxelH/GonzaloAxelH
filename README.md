@@ -161,10 +161,7 @@ Hey My Name is Gonzalo Axel Valdez, I am currently studying the seventh cycle at
       <br>
       <br>
       <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="bootstrap"></td>
-      <td width="14.2%" align="center"><span>jQuery</span><br>
-      <br>
-      <br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg" alt="jquery"></td>
+      
     </tr>
     <tr>
       <td width="14.2%" align="center"><span>MongoDB</span><br>
