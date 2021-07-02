@@ -144,10 +144,7 @@ Hey My Name is Gonzalo Axel Valdez, I am currently studying the seventh cycle at
         <span>AWS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
-	    <td width="14.2%" align="center">
-        <span>Sass</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>	
+	  
     </tr>
     <tr>
 	  <td width="14.2%" align="center">
@@ -198,6 +195,10 @@ Hey My Name is Gonzalo Axel Valdez, I am currently studying the seventh cycle at
         <span>Trello</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/trello.svg">
       </td>
+	  <td width="14.2%" align="center">
+        <span>Sass</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+      </td>	
           <td width="20.2%" align="center">
         <span>Scrum</span><br><br><br>
         <img height="64px" src="https://w7.pngwing.com/pngs/561/944/png-transparent-scrum-agile-software-development-kanban-project-computer-software-logo-professional-blue-text-logo-thumbnail.png">
