@@ -144,6 +144,10 @@ Hey My Name is Gonzalo Axel Valdez, I am currently studying the seventh cycle at
         <span>AWS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
+	    <td width="14.2%" align="center">
+        <span>Sass</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+      </td>	
     </tr>
     <tr>
 	  <td width="14.2%" align="center">
@@ -181,10 +185,7 @@ Hey My Name is Gonzalo Axel Valdez, I am currently studying the seventh cycle at
       </td>
 	</tr>
 	<tr>
-<td width="14.2%" align="center">
-        <span>Sass</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>	
+
       <td width="14.2%" align="center">
         <span>MongoDB</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
