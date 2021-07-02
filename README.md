@@ -88,8 +88,9 @@ Hey My Name is Parth Patel, I am currently studying the seventh cycle at the nat
 <div align = "center">
 
 
-<hr>
-
+<h1 align="center">
+✨ Coming soon✨
+</h1>
 </div>
 
 <h3>Thanks for Stopping by!! 😊</h3>
