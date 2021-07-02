@@ -102,16 +102,12 @@ Hey My Name is Gonzalo Axel Valdez, I am currently studying the seventh cycle at
 </table>
 <hr>
 
-<h1 align="center">
-
-</h1>
-
 <div align = "center">
-
 
 <h1 align="center">
 ✨ Coming soon✨
 </h1>
+	
 </div>
 <table>
   <tbody>
@@ -162,7 +158,6 @@ Hey My Name is Gonzalo Axel Valdez, I am currently studying the seventh cycle at
         <td width="14.2%" align="center">
         <span>Wix</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/wix.svg">
-      </td>
           </td>
         <td width="14.2%" align="center">
         <span>.NET</span><br><br><br>
