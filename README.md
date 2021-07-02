@@ -55,49 +55,43 @@ Hey My Name is Parth Patel, I am currently studying the seventh cycle at the nat
         <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
       </td>
     </tr>
-
+  <tr>
+     <td width="14.2%" align="center">
+        <span><strong>C#</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+      </td>
+      <td width="14.2%" align="center">
+        <span><strong>Slack</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/slack-icon.svg">
+      </td>
+      <td width="14.2%" align="center">
+        <span><strong>Typescript</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+      </td>
+      <td width="14.2%" align="center">
+        <span><strong>Firebase</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+      </td>
+     <td width="14.2%" align="center">
+        <span><strong>Firebase</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+      </td>
+      <td width="14.2%" align="center">
+        <span><strong>KDE</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/kde.svg">
+      </td>
+      <td width="14.2%" align="center">
+        <span><strong>Node.js</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+      </td>
+  </tr>
+ 
   </tbody>
 </table>
 <hr>
 
 <h1 align="center">
-✨ Where you can find me ✨
-  
-  <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
 
-  <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
-
-  <!-- https://img.shields.io/badge/Facebook-Parth%20Patel-darkblue&?style=social&logo=Facebook -->
-
-  <!-- https://img.shields.io/badge/Instagram-parth.__.27-red&?style=social&logo=Instagram -->
-
-  <!-- https://img.shields.io/badge/Twitter-Parth%20Patel-blue&?style=social&logo=Twitter -->
-<!--
-<p align="center">
-  <br/>
-  <a href="https://www.linkedin.com/in/parth-patel-313a40198/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="https://github.com/parth-27">
-    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
-  </a>
-
-
-  <br/>
-  <a href="https://www.facebook.com/profile.php?id=100026103873514">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
-  </a>
- 
-  <a href="https://www.instagram.com/parth._.27/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
-  </a>
-
-  <a href="https://twitter.com/parthpatel_27">
-    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
-  </a>
-</p>
--->
 </h1>
 
 <div align = "center">
