@@ -68,7 +68,7 @@ Hey My Name is Gonzalo Axel Valdez, I am currently studying the seventh cycle at
       <br>
       <br>
       <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase"></td>
-      <td width="14.2%" align="center"><span><strong>Firebase</strong></span><br>
+      <td width="14.2%" align="center"><span><strong>Redux</strong></span><br>
       <br>
       <br>
       <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg" alt="redux"></td>
