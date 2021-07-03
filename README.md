@@ -181,7 +181,7 @@ Hey My Name is Gonzalo Axel Valdez, I am currently studying the seventh cycle at
 </table>
 <hr>
 <div align="center">
-  <h1 align="center">✨ Coming soon✨</h1>
+  <h1 align="center">✨ Connected apis ✨</h1>
 </div>
 
 
@@ -192,14 +192,10 @@ Hey My Name is Gonzalo Axel Valdez, I am currently studying the seventh cycle at
       <br>
       <br>
       <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/Wikipedia_Logo_1.0.png" alt="aws"></td>
-    </tr>
-    <tr valign="top">
       <td width="14.2%" align="center"><span>Nasa API</span><br>
       <br>
       <br>
       <img height="64px" src="https://logodownload.org/wp-content/uploads/2019/03/nasa-logo.png" alt="aws"></td>
-    </tr>
-    <tr valign="top">
       <td width="14.2%" align="center"><span>OpenWeather API</span><br>
       <br>
       <br>
