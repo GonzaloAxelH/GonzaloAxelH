@@ -6,7 +6,10 @@
 
 Hey My Name is Gonzalo Axel Valdez, I am currently studying the seventh cycle at the national university of moquegua.
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+<div align="center">
+  <h1 align="center">✨ 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 ✨</h1>
+</div>
+
 <table>
   <tbody>
     <tr valign="top">
