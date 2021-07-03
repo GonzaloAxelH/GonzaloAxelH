@@ -210,6 +210,9 @@ Hey My Name is Gonzalo Axel Valdez, I am currently studying the seventh cycle at
 
 <h3>Thanks for Stopping by!! 😊</h3>
 
-<img src="https://images.thoughtbot.com/git-push-force-with-lease/XEDULrg2QsnzIGytOMfh_XFQLB.jpg" alt="gitforce-meme">
 
+
+<div align="center">
+  <img src="https://images.thoughtbot.com/git-push-force-with-lease/XEDULrg2QsnzIGytOMfh_XFQLB.jpg" alt="gitforce-meme">
+</div>
 
