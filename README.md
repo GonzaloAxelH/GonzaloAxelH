@@ -179,8 +179,34 @@ Hey My Name is Gonzalo Axel Valdez, I am currently studying the seventh cycle at
     </tr>
   </tbody>
 </table>
+<hr>
+<div align="center">
+  <h1 align="center">✨ Coming soon✨</h1>
+</div>
 
 
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="14.2%" align="center"><span>Wikipedia API</span><br>
+      <br>
+      <br>
+      <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/Wikipedia_Logo_1.0.png" alt="aws"></td>
+    </tr>
+    <tr valign="top">
+      <td width="14.2%" align="center"><span>Nasa API</span><br>
+      <br>
+      <br>
+      <img height="64px" src="https://logodownload.org/wp-content/uploads/2019/03/nasa-logo.png" alt="aws"></td>
+    </tr>
+    <tr valign="top">
+      <td width="14.2%" align="center"><span>OpenWeather API</span><br>
+      <br>
+      <br>
+      <img height="64px" src="https://raw.githubusercontent.com/bugsounet/MMM-Weather/master/logo.png" alt="aws"></td>
+    </tr>
+  </tbody>
+</table>
 
 
 <h3>Thanks for Stopping by!! 😊</h3>
