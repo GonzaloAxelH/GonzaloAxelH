@@ -11,30 +11,24 @@ My web site is still under development but you can take a look at it [Gonzalo We
 <style>
   .wrapper{
     display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-
-  grid-gap: 1em;
-  place-items: center;
-
- 
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 1em;
+    place-items: center;
   }
-   @media (max-width: 768px) {
+  @media (max-width: 768px) {
        .wrapper{
-
            grid-template-columns: 1fr 1fr 1fr 1fr;
        }
   }
 
   @media (max-width: 560px) {
       .wrapper{
-
           grid-template-columns: 1fr 1fr 1fr;
       }
   }
 
   @media (max-width: 400px) {
       .wrapper{
-
           grid-template-columns: 1fr 1fr;
       }
   }
@@ -44,14 +38,10 @@ My web site is still under development but you can take a look at it [Gonzalo We
     display: flex;
     align-items: center;
     justify-content: center;
-
     width: 100px;
     height: 100px;
-
     border-radius: 10%;
     overflow: hidden;
-
-    /* Subtle inner border */
     box-shadow: inset 0 0 1px 1px rgba(0, 0, 0, 0.015);
   }
 
@@ -59,9 +49,6 @@ My web site is still under development but you can take a look at it [Gonzalo We
     height: 70%;
     width: 70%;
     z-index: 2;
-
-    /* Optionally add a drop shadow to the main image	 */
-    /* to make it feel "lifted"	 */
     filter: drop-shadow(0 1px 4px rgba(0, 0, 0, 0.12));
   }
 
@@ -85,8 +72,8 @@ My web site is still under development but you can take a look at it [Gonzalo We
 </div>
 <div class="wrapper">
   <div class="avatar">
-      <img alt="" aria-hidden src="https://cdn.svgporn.com/logos/.svg" class="background" />
-      <img alt="" src="https://cdn.svgporn.com/logos/.svg" width="100" height="100" />
+      <img alt="" aria-hidden src="https://cdn.svgporn.com/logos/javascript.svg" class="background" />
+      <img alt="" src="https://cdn.svgporn.com/logos/javascript.svg" width="100" height="100" />
     </div>
  
  <div class="avatar">
@@ -306,4 +293,5 @@ My web site is still under development but you can take a look at it [Gonzalo We
       <img alt="" src="https://cdn.svgporn.com/logos/wordpress-icon.svg" width="100" height="100" />
     </div>
 </div>
+
 
