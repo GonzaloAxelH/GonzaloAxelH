@@ -9,31 +9,31 @@ Hey My Name is Gonzalo Axel Valdez, I am currently studying the seventh cycle at
 My web site is still under development but you can take a look at it [Gonzalo Web Page ](https://gonzalo.vercel.app/)
 
 <style>
-  .wrapper{
+ .rm-Guides .markdown-body .wrapper{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-gap: 1em;
     place-items: center;
   }
   @media (max-width: 768px) {
-       .wrapper{
+      .rm-Guides .markdown-body  .wrapper{
            grid-template-columns: 1fr 1fr 1fr 1fr;
        }
   }
 
   @media (max-width: 560px) {
-      .wrapper{
+     .rm-Guides .markdown-body .wrapper{
           grid-template-columns: 1fr 1fr 1fr;
       }
   }
 
   @media (max-width: 400px) {
-      .wrapper{
+    .rm-Guides .markdown-body  .wrapper{
           grid-template-columns: 1fr 1fr;
       }
   }
  
-  .avatar {
+  .rm-Guides .markdown-body .avatar {
     position: relative;
     display: flex;
     align-items: center;
@@ -45,14 +45,14 @@ My web site is still under development but you can take a look at it [Gonzalo We
     box-shadow: inset 0 0 1px 1px rgba(0, 0, 0, 0.015);
   }
 
-  .avatar img {
+  .rm-Guides .markdown-body .avatar img {
     height: 70%;
     width: 70%;
     z-index: 2;
     filter: drop-shadow(0 1px 4px rgba(0, 0, 0, 0.12));
   }
 
-  .avatar .background {
+  .rm-Guides .markdown-body  .avatar .background {
     position: absolute;
     z-index: 1;
     pointer-events: none;
