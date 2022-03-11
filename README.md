@@ -69,7 +69,10 @@ My web site is still under development but you can take a look at it [Gonzalo We
 <div align="center" >
   <h1 align="center">✨ 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 ✨</h1>
 </div>
-<div class="wrapper">
+<div class="wrapper" style"display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 1em;
+    place-items: center;">
   <div class="avatar">
       <img alt="d" aria-hidden src="https://cdn.svgporn.com/logos/javascript.svg" class="background" />
       <img alt="d" src="https://cdn.svgporn.com/logos/javascript.svg" width="100" height="100" />
