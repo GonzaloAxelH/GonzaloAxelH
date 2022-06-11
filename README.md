@@ -61,6 +61,10 @@ My web site is still under development but you can take a look at it [Gonzalo We
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinib&layout=compact&theme=merko">
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges -->
+  
+  
+  
+  
 <p align="center">
   <a href="https://github.com/trinib?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/trinib"/></a><a href="https://github.com/trinib?tab=followers"><a href="https://github.com/trinib?tab=followers">
