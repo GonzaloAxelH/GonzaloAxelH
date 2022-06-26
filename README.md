@@ -48,10 +48,10 @@
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/leonardo-yzquierdo-97899983/" target="_blank">
+  <a href="https://www.linkedin.com/in/gonzalo-axel-valdez-3ab5ba216/" target="_blank">
     <code><img width="51" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/linkedIn.png"/></code>
   </a>
-  <a href="mailto: leoyzquierdo@gmail.com" target="_blank">
+  <a href="mailto: gonzaloaxeh@gmail.com" target="_blank">
     <code><img width="55" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/gmail.png"/></code>
   </a>
 </p>
@@ -66,5 +66,5 @@
 
 #
 
-<h4>𝐂𝐫𝐞𝐝𝐢𝐭: <a href="https://github.com/LeonardoYz">LeonardoYz</a></h4>
-<p> 𝐋𝐚𝐬𝐭 𝐄𝐝𝐢𝐭𝐞𝐝 𝐨𝐧: 19/05/2022 </p>
+<h4>𝐂𝐫𝐞𝐝𝐢𝐭s: <a href="https://github.com/LeonardoYz">LeonardoYz</a></h4>
+<p> 𝐋𝐚𝐬𝐭 𝐄𝐝𝐢𝐭𝐞𝐝 𝐨𝐧: 20/06/2022 </p>
