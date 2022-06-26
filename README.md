@@ -58,9 +58,3 @@
 <br/>
 
 
-  ![Snake animation](https://github.com/LeonardoYz/LeonardoYz/blob/output/github-contribution-grid-snake.svg)
-
-#
-
-<h3>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
-
